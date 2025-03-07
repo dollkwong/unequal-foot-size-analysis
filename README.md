@@ -1,4 +1,4 @@
-# unequal-foot-size-analysis
+# Unequal Foot Size Analysis
 
 This is a project to discover the feasibility of creating a platform to match unequal-foot-sized people (unequal-foot-sizers) for better shoes comsumption experience. It is considered grouped/paired up if one have opposite size difference with another. (E.g `Left 38 + Right 37` is paired up with `Left 37 + Right 38`)
 <br>
