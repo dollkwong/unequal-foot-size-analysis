@@ -17,10 +17,8 @@ Data is collected with a [Google form questionaire](https://forms.gle/8Hsn4z1X7q
 The original questionaire is in Chinese. I translated to English with my own language. I was planning to use the `translate` library but the result is not satisfying. 
 ### 2. Column Addition
 In order to more easier to group/pair individuals, two columns are added: `estimated_left_foot_size` and `estimated_left_foot_size`. Two assumptions are made here:
-<br>
-1. Their usual shoe size is the size of the bigger foot
-<br>
-2. for feet size difference smaller than 0.5, difference is insignaficant and thus shoe exchange is unnecessary/unfeasible 
+- Their usual shoe size is the size of the bigger foot
+- for feet size difference smaller than 0.5, difference is insignaficant and thus shoe exchange is unnecessary/unfeasible 
 <br>
 The smaller foot size is thus calculated by subtracting the difference of two feet.
 
