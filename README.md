@@ -20,7 +20,7 @@ In order to more easier to group/pair individuals, two columns are added: `estim
 <br>
 1. Their usual shoe size is the size of the bigger foot
 <br>
-2. for feet size difference smaller than 0.5, difference is insignaficant and thus shoe exchange is unnecessary/unfeasible. 
+2. for feet size difference smaller than 0.5, difference is insignaficant and thus shoe exchange is unnecessary/unfeasible 
 <br>
 The smaller foot size is thus calculated by subtracting the difference of two feet.
 
