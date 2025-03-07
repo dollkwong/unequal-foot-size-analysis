@@ -26,7 +26,17 @@ The smaller foot size is thus calculated by subtracting the difference of two fe
 
 ## Insights
 - Among 900 interviewers, over 33% of them are suffering from unequal foot size, and the bigger foot is very evenly distributed between left and right feet. However, a majority of them only hold a difference of 0.25 size (less than 0.5), meaning only 150 interviewees falls within our attention. This takes up 16.7% (1 out of 6). This proportion, to me, is acceptable.
-- The unequal-foot-sizers are grouped based on their foot sizes. In this study, non of the men can be paired up, but there are several groups among women. 
+- The unequal-foot-sizers are grouped based on their foot sizes. In this study, none of the men can be paired up, but there are several groups among women. In groups `36-36.5`, `36.5-37`, `37-37.5`, `38-38.5`, both foot are evenly distributed. For group `38.5-39`, there is 31:1 proportion of left and right foot.
+- If to count by 2 people as a pair, 10 pairs are formed; by benefiting individuals, 50 of them are grouped.
+- In a 900-interviewer study, we got 5% grouping success, and 16.7% demand for this platform. I would declare that this platform is worth a try.
 
 ## Follow up Actions
 As this platform is considered worth going on, the next phase is to understand the preferences of those target audience.
+### Possible models:
+- Users subscribe to other individuals who have opposite foot size with themselves. One can send a signal/notification to announce the desire to purchase shoes, and gather others to exchange one foot with them. The platform sustain by ad.
+- Users can pair up and chat privately
+- The platform owner act as the purchasing agent, charge, say, 10% higher than market price, and deliver a pair of shoes of different size. Save the shoes for the next customer who has opposite foot size.
+
+### Further research to make it happen:
+- The consumption habits (how often, type, design, price) to shoes
+- The extra price they accept to pay for a pair shoes of different size
