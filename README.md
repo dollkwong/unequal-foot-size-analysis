@@ -1,6 +1,7 @@
 # unequal-foot-size-analysis
 
 This is a project to discover the feasibility of creating a platform to match unequal-foot-sized people (unequal-foot-sizers) to facilitate their shoes comsumption experience. 
+<br>
 ![Foot](https://github.com/user-attachments/assets/246f9f83-6fe1-47b6-a0d2-0ea17b677b05)
 
 Below dashboard shows the distribution of the interviewees. The interactive dashboard can be accessed [here](https://public.tableau.com/app/profile/doll.kwong/viz/unequal-foot-size/UnequalFootSizers)
